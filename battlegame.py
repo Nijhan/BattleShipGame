@@ -16,3 +16,9 @@ human_damage = 20
 # Add dragon stats
 dragon_hp = 300
 dragon_damage = 50
+
+# Task 2: Prompt Player
+print("Choose your character:")
+print("1) Wizard")
+print("2) Elf")
+print("3) Human")
