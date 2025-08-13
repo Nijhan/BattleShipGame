@@ -12,3 +12,6 @@ wizard_damage = 150
 elf_damage = 100
 human_damage = 20
 
+#Addd gragon starts
+dragon_hp = 300
+dragon_damage = 50
