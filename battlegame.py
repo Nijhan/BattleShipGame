@@ -1,17 +1,9 @@
-wizard= "Wizard"
-elf= "Elf"
-human= "Human"
+# Task 1: Character setup
+wizard = "Wizard"
+elf = "Elf"
+human = "Human"
 
-#Hp characters
+# HP characters
 wizard_hp = 70
 elf_hp = 100
 human_hp = 150
-
-#Damage characters
-wizard_damage = 150
-elf_damage = 100
-human_damage = 20
-
-#Addd gragon starts
-dragon_hp = 300
-dragon_damage = 50
