@@ -22,3 +22,7 @@ print("Choose your character:")
 print("1) Wizard")
 print("2) Elf")
 print("3) Human")
+
+player_choice = input("Enter 1, 2, or 3: ")
+
+print("You chose:", player_choice)
