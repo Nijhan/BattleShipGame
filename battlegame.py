@@ -1,4 +1,12 @@
+# Task 2: Prompt Player Choice
 
+
+print("1) Wizard")
+print("2) Elf")
+print("3) Human")
+
+character_choice = input("Choose your character (1, 2, or 3): ")
+print("You chose option:", character_choice
 # Task 1: Characters, HP, and Damage Setup
 
 # Characters
@@ -77,3 +85,4 @@ while True:
     if current_my_hp <= 0:
         print(f"The {character} has lost the battle! You lose!")
         break
+
