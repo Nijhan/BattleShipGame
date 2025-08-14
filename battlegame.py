@@ -3,7 +3,24 @@ wizard = "Wizard"
 elf = "Elf"
 human = "Human"
 
+
 # HP
+
+
+
+
+#Task 2: Prompt Player Choice
+character_choice=input("choose your character")
+print("1)Wizard")
+print("2) Elf")
+print("3) Human")
+print("You chose option:", character_choice)
+print("You chose option:", character_choice)
+
+# Task 3: Player Choice
+
+# Character stats
+
 wizard_hp = 70
 elf_hp = 100
 human_hp = 150
@@ -42,6 +59,7 @@ while True:
     else:
         print("That is not a valid choice, try again.")
 
+
 print(f"You have chosen the {character}")
 print(f"HP: {my_hp}")
 print(f"Damage: {my_damage}")
@@ -68,3 +86,9 @@ while True:
     if current_my_hp <= 0:
         print(f"The {character} has lost the battle! You lose!")
         break
+
+# Show player choice
+print("You have chosen the", character)
+print("HP:", my_hp)
+print("Damage:", my_damage)
+
