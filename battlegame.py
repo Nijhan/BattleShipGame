@@ -1,9 +1,14 @@
 
+
+
+
+
 #Task 2: Prompt Player Choice
 character_choice=input("choose your character")
 print("1)Wizard")
 print("2) Elf")
-print("3) Human")
+print("3) Huma
+print("You chose option:", character_choic
 print("You chose option:", character_choice)
 
 # Task 3: Player Choice
@@ -47,6 +52,5 @@ while True:
 print("You have chosen the", character)
 print("HP:", my_hp)
 print("Damage:", my_damage)
-
 
 
