@@ -23,17 +23,6 @@ dragon_damage = 50
 
 
 #task4
-character = wizard         
-my_hp = wizard_hp
-my_damage = wizard_damage
-
-# Create copies of HP so originals stay unchanged
-current_dragon_hp = dragon_hp
-current_my_hp = my_hp
-
-character = wizard         
-my_hp = wizard_hp
-my_damage = wizard_damage
 
 # Create copies of HP so originals stay unchanged
 current_dragon_hp = dragon_hp
