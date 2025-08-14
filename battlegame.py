@@ -1,3 +1,7 @@
+
+# Task 1: Characters, HP, and Damage Setup
+
+# Characters
 # --- Task 1: Characters, HP, and Damage ---
 wizard = "Wizard"
 elf = "Elf"
@@ -13,10 +17,11 @@ wizard_damage = 150
 elf_damage = 100
 human_damage = 20
 
-# Dragon stats
+# Dragon Stats
 dragon_hp = 300
 dragon_damage = 50
 
+print("Task 1 complete: Characters and stats have been set up."
 
 # --- Task 2: Prompt Player Choice ---
 print("1) Wizard")
